@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d2a621c9-5351-46a0-be5e-067ae9a57ddc" name="OrderingSystem" url="https://devweb2019.cis.strath.ac.uk/~iyb19179/">
+        <fileTransfer host="cafe.cis.strath.ac.uk" port="22" rootFolder="/home/iyb19179/DEVWEB/2019" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
