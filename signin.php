@@ -77,7 +77,7 @@
     //Connect to mySQL
     $host = "devweb2019.cis.strath.ac.uk";
     $user = "iyb19179";
-    $pass = "dengeiph6Tai";
+    $pass = "";
     $dbname = "iyb19179";
     $conn = new mysqli($host, $user, $pass, $dbname);
 
